@@ -10,4 +10,4 @@ jobs:
         run: echo "hello"
 
       - name: action1
-        uses: mikeharder/actions-test/action1@main
+        uses: mikeharder/test-actions/action1@main
