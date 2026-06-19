@@ -11,3 +11,6 @@ jobs:
 
       - name: action1
         uses: mikeharder/test-actions/action1@main
+
+      - name: action2
+        uses: mikeharder/test-actions/action2@main
