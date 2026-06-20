@@ -6,8 +6,8 @@ jobs:
   action1:
     runs-on: ubuntu-slim
     steps:
-      # - name: hello
-      #   run: echo "hello3"
+      - name: hello
+        run: echo "hello4"
 
       # - name: action1
       #   uses: mikeharder/test-actions/action1@main
