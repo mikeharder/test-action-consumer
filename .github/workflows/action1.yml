@@ -17,3 +17,6 @@ jobs:
 
       - name: action3
         uses: mikeharder/test-actions/action3@main
+
+      - name: action4
+        uses: mikeharder/test-actions/action4@main
